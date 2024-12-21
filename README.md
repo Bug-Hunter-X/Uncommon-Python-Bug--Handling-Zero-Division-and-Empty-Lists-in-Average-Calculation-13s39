@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in Python: handling zero division and empty lists.  The `bug.py` file contains a function to calculate the average of numbers in a list, but this function can throw exceptions. The `bugSolution.py` file provides a more robust solution.
